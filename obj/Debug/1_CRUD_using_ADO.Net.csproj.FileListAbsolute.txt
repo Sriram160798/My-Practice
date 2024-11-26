@@ -1,0 +1,10 @@
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\bin\Debug\1_CRUD_using_ADO.Net.exe.config
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\bin\Debug\1_CRUD_using_ADO.Net.exe
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\bin\Debug\1_CRUD_using_ADO.Net.pdb
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\1_CRUD_using_ADO.Net.csproj.AssemblyReference.cache
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\_1_CRUD_using_ADO.Net.Form1.resources
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\_1_CRUD_using_ADO.Net.Properties.Resources.resources
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\1_CRUD_using_ADO.Net.csproj.GenerateResource.cache
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\1_CRUD_using_ADO.Net.csproj.CoreCompileInputs.cache
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\1_CRUD_using_ADO.Net.exe
+D:\DotNet\CRUD Operations\1_CRUD_using_ADO.Net\obj\Debug\1_CRUD_using_ADO.Net.pdb
